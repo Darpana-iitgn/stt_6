@@ -1,12 +1,12 @@
 {
   "os":  "Windows-11-10.0.26100-SP0",
   "python":  "CPython 3.12.7",
-  "startedAt":  "2025-02-24T15:02:18.935474Z",
+  "startedAt":  "2025-02-24T16:42:51.673915Z",
   "program":  "c:\\Users\\darpa\\Downloads\\vs code projects\\stt_6\\section-1.ipynb",
   "codePath":  "section-1.ipynb",
   "git":  {
     "remote":  "https://github.com/Darpana-iitgn/stt_6.git",
-    "commit":  "bc00f8d5125d1a2b64e488ba3d899b0261cb9c19"
+    "commit":  "979c7719cb36836249b0e9af07ef8270a26d6d4f"
   },
   "email":  "23110085@iitgn.ac.in",
   "root":  "c:\\Users\\darpa\\Downloads\\vs code projects\\stt_6",
@@ -20,7 +20,7 @@
   "disk":  {
     "/":  {
       "total":  "1022523412480",
-      "used":  "347329515520"
+      "used":  "347432185856"
     }
   },
   "memory":  {

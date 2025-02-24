@@ -1,0 +1,35 @@
+Sample Labels and Their One-Hot Encoding:
+ [[0. 1. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 1. 0. 0.]]
+Original dataset shape: (150, 4)
+Train set shape: (105, 4), (105, 3)
+Validation set shape: (15, 4), (15, 3)
+Test set shape: (30, 4), (30, 3)
+Epoch [20/400], Train Loss: 1.0723, Val Loss: 1.0673
+Epoch [40/400], Train Loss: 1.0424, Val Loss: 1.0394
+Epoch [60/400], Train Loss: 1.0085, Val Loss: 1.0079
+Epoch [80/400], Train Loss: 0.9683, Val Loss: 0.9703
+Epoch [100/400], Train Loss: 0.9235, Val Loss: 0.9287
+Epoch [120/400], Train Loss: 0.8787, Val Loss: 0.8885
+Epoch [140/400], Train Loss: 0.8387, Val Loss: 0.8546
+Epoch [160/400], Train Loss: 0.8058, Val Loss: 0.8279
+Epoch [180/400], Train Loss: 0.7793, Val Loss: 0.8075
+Epoch [200/400], Train Loss: 0.7579, Val Loss: 0.7931
+Epoch [220/400], Train Loss: 0.7408, Val Loss: 0.7830
+Epoch [240/400], Train Loss: 0.7271, Val Loss: 0.7751
+Epoch [260/400], Train Loss: 0.7154, Val Loss: 0.7680
+Epoch [280/400], Train Loss: 0.7051, Val Loss: 0.7613
+Epoch [300/400], Train Loss: 0.6956, Val Loss: 0.7546
+Epoch [320/400], Train Loss: 0.6866, Val Loss: 0.7479
+Epoch [340/400], Train Loss: 0.6781, Val Loss: 0.7409
+Epoch [360/400], Train Loss: 0.6698, Val Loss: 0.7337
+Epoch [380/400], Train Loss: 0.6619, Val Loss: 0.7275
+Epoch [400/400], Train Loss: 0.6546, Val Loss: 0.7217
+Test Loss: 0.6360
+Test Accuracy: 0.9667
+Test Precision: 0.9697
+Test Recall: 0.9667
+Test F1 Score: 0.9666
