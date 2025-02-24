@@ -1,0 +1,91 @@
+_wandb:
+    value:
+        cli_version: 0.19.7
+        m:
+            - "1": epoch/learning_rate
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/epoch
+              "6":
+                - 3
+              "7": []
+            - "1": epoch/loss
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_accuracy
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_loss
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/accuracy
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+        python_version: 3.12.7
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+                - 55
+                - 105
+            "2":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+                - 55
+                - 105
+            "3":
+                - 2
+                - 7
+                - 13
+                - 16
+                - 23
+                - 38
+                - 39
+                - 55
+            "4": 3.12.7
+            "5": 0.19.7
+            "8":
+                - 1
+                - 3
+                - 5
+            "12": 0.19.7
+            "13": windows-amd64
+architecture:
+    value:
+        - layer: Input
+          units: 4
+        - activation: relu
+          layer: Dense
+          units: 16
+        - activation: softmax
+          layer: Dense
+          units: 3
+batch_size:
+    value: 32
+epochs:
+    value: 50
+hidden_layer_size:
+    value: 16
+learning_rate:
+    value: 0.001
