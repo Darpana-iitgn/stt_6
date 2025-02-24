@@ -56,3 +56,29 @@
 {"time":"2025-02-24T16:01:48.7406738+05:30","level":"INFO","msg":"Pausing system monitor"}
 {"time":"2025-02-24T16:02:51.0990667+05:30","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2025-02-24T16:02:51.1032396+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:27:44.7900476+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:27:44.7927005+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:27:46.8067645+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:27:46.8273556+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:27:50.1631775+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:27:50.1871931+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:27:52.0643993+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:27:52.0701032+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:27:54.2479933+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:28:29.8751956+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:29:18.405874+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:29:18.9864776+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:29:21.3199205+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:29:21.3243312+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:29:23.7378079+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:29:24.5475+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:30:33.837081+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T16:30:34.2166042+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T16:45:33.250622+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/darpana-indian-institute-of-technology-gandhinagar/iris_mlp/rkdy75yc/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T16:45:34.5101403+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T16:45:35.691548+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/darpana-indian-institute-of-technology-gandhinagar/iris_mlp/rkdy75yc/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T16:45:36.8262499+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T17:01:18.209972+05:30","level":"WARN","msg":"sender: taking a long time","seconds":943.7143154,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"qtzgyz4bznu5\"  connection_id:\"127.0.0.1:58357\")"}
+{"time":"2025-02-24T17:01:18.3042966+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/darpana-indian-institute-of-technology-gandhinagar/iris_mlp/rkdy75yc/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T17:01:18.3042966+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T17:01:28.1771683+05:30","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":953.6815117,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"qtzgyz4bznu5\"  connection_id:\"127.0.0.1:58357\")"}
